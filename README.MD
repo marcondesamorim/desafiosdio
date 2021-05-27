@@ -17,3 +17,8 @@
 13. Ordenando pares e impares
 14. Valores positivos
 15. Visita na feira
+16. Atalhos para Web Blogger
+17. Maior Substring
+18. Ordenacao de palavras por tamanho
+19. Pedra Papel Tesoura Lagarto e Spock
+20. Validador de Senhas
