@@ -1,4 +1,4 @@
-##Desafios entregues para o Digital Innovation One
+##Desafios entregues ao Digital Innovation One
 
 ###Lista do desafios entregues
 
