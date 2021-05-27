@@ -1,6 +1,6 @@
 ##Desafios entregues ao Digital Innovation One
 
-###Lista do desafios entregues
+###Lista de desafios entregues
 
 1. Ajudando professor Girafales
 2. Analise de Números
